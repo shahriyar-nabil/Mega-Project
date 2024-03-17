@@ -1,0 +1,42 @@
+.be-vietnam pro-medium {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+  .poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+
+This website started with a vision to provide free resources and tools for front end developers to enhance their skills and grow in their careers. Founded by Shahriyar Nabil, a seasoned front end developer with a passion for creating innovative solutions, the website has quickly become a go-to destination for developers looking to sharpen their skills and stay updated with the latest trends in the industry.
+
+Our Goal
+My goal is to empower front end developers with the knowledge and tools they need to excel in their field. We strive to provide high-quality resources, project ideas, and roadmaps to help developers navigate their career paths with confidence and success.
